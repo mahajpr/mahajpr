@@ -22,22 +22,23 @@
 
 ## 🚀 Featured Projects
 ### 🔹 Agentic AI Resume Matcher
-Tech: FastAPI • Streamlit • NLP • LLM APIs • PDF Processing • REST API <br>
-Description:AI-powered Resume Matcher that analyzes resumes against job descriptions using NLP and LLM techniques. Provides match scores, skill alignment, and improvement suggestions in real-time. <br>
-Demo video:https://drive.google.com/file/d/1ltDHU2KDM0qz0AJVf7sfjAZ5W-0LOhw6/view?usp=sharing
+🛠 Tech : FastAPI • Streamlit • NLP • LLM APIs • PDF Processing • REST API <br>
+📌 Description : AI-powered Resume Matcher that analyzes resumes against job descriptions using NLP and LLM techniques. Provides match scores, skill alignment, and improvement suggestions in real-time. <br>
+🎥 Demo [Watch Resume Matcher Demo] :https://drive.google.com/file/d/1ltDHU2KDM0qz0AJVf7sfjAZ5W-0LOhw6/view?usp=sharing
+🔗 Code: https://github.com/mahajpr/AI-Projects.git
 
 ### 🔹Fake Review Detector
-Tech: FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis • Railway Deployment<br>
-Description:AI-powered system that detects and explains fake product reviews using rule-based detection, RAG architecture, and LLM reasoning.<br>
-Demo:https://fakereviewdetector-production-3065.up.railway.app/
-
+🛠 Tech : FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis • Railway Deployment<br>
+📌 Description : AI-powered system that detects and explains fake product reviews using rule-based detection, RAG architecture, and LLM reasoning.<br>
+🎥 Demo : https://fakereviewdetector-production-3065.up.railway.app/
+🔗 Code: https://github.com/mahajpr/Fake_Review_Detector.git
 
 ### 🔹College Event Register System
-Tech: FastAPI • Streamlit • SQLite • REST API • Role-based Login • Railway Deployment <br>
-Description:Role-based event management platform with separate student and admin portals, built using FastAPI and deployed backend services.<br>
-Demos: 
+🛠 Tech : FastAPI • Streamlit • SQLite • REST API • Role-based Login • Railway Deployment <br>
+📌 Description : Role-based event management platform with separate student and admin portals, built using FastAPI and deployed backend services.<br>
+🎥 Demos: 
 Student:https://collegeeventregistersystem-production-79f4.up.railway.app <br>
 Admin:https://collegeeventregistersystem-production-fb1c.up.railway.app
-  
+🔗 Code: https://github.com/mahajpr/College_Event_Register_System.git
 
 
