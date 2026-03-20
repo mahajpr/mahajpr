@@ -24,7 +24,7 @@
 ### 🔹 Agentic AI Resume Matcher
 Tech: FastAPI • Streamlit • NLP • LLM APIs • PDF Processing • REST API <br>
 Description:AI-powered Resume Matcher that analyzes resumes against job descriptions using NLP and LLM techniques. Provides match scores, skill alignment, and improvement suggestions in real-time. <br>
-Demo video:
+Demo video:https://drive.google.com/file/d/1ltDHU2KDM0qz0AJVf7sfjAZ5W-0LOhw6/view?usp=sharing
 
 ### 🔹Fake Review Detector
 Tech: FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis • Railway Deployment<br>
