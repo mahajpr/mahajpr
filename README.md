@@ -20,4 +20,22 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mahajpr&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+### 🔹 Agentic AI Resume Matcher
+Tech: FastAPI • Streamlit • NLP • LLM APIs • PDF Processing • REST API
+description:AI-powered Resume Matcher that analyzes resumes against job descriptions using NLP and LLM techniques. Provides match scores, skill alignment, and improvement suggestions in real-time.
+demo video:
+
+### 🔹Fake Review Detector
+Tech: FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis • Railway Deployment
+description:AI-powered system that detects and explains fake product reviews using rule-based detection, RAG architecture, and LLM reasoning.
+demo:https://fakereviewdetector-production-3065.up.railway.app/
+
+
+### 🔹College Event Register System
+Tech: FastAPI • Streamlit • SQLite • REST API • Role-based Login • Railway Deployment
+description:Role-based event management platform with separate student and admin portals, built using FastAPI and deployed backend services.
+demos: Student: "https://collegeeventregistersystem-production-79f4.up.railway.app",  Admin: "https://collegeeventregistersystem-production-fb1c.up.railway.app"
+  
+
+
