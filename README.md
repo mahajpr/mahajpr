@@ -28,13 +28,13 @@
 🔗 Code: https://github.com/mahajpr/AI-Projects.git
 
 ### 🔹Fake Review Detector
-🛠 Tech : FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis • Railway Deployment<br>
+🛠 Tech : FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis <br>
 📌 Description : AI-powered system that detects and explains fake product reviews using rule-based detection, RAG architecture, and LLM reasoning.<br>
 🎥 Demo [Watch Resume Matcher Demo] :https://github.com/user-attachments/assets/36e8a753-ac0e-413f-b59e-c7b3aac1eb1b <br>
 🔗 Code: https://github.com/mahajpr/Fake_Review_Detector.git
 
 ### 🔹Smart Event Management System with AI Assistant
-🛠 Tech : FastAPI • Streamlit • SQLite • REST API • Role-based Login • Railway Deployment <br>
+🛠 Tech : FastAPI • Streamlit • SQLite • REST API • Role-based Login  <br>
 📌 Description : Role-based event management platform with separate student and admin portals, built using FastAPI and deployed backend services.<br>
 🎥 Demos [Watch Resume Matcher Demo] :https:https://drive.google.com/file/d/126_l6Mjo3360bM1to6d1rI4OlKm1gsrM/view?usp=sharing <br>
 🔗 Code: https://github.com/mahajpr/College_Event_Register_System.git
