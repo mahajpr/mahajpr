@@ -25,7 +25,7 @@
 🛠 Tech : FastAPI • Streamlit • NLP • LLM APIs • PDF Processing • REST API <br>
 📌 Description : AI-powered Resume Matcher that analyzes resumes against job descriptions using NLP and LLM techniques. Provides match scores, skill alignment, and improvement suggestions in real-time. <br>
 🎥 Demo [Watch Resume Matcher Demo] :https://github.com/user-attachments/assets/05a55e61-620e-4362-af42-0a9b1984670a <br>
-🔗 Code: https://github.com/mahajpr/AI-Projects.git
+🔗 Code: https://github.com/mahajpr/Agentic_AI_Resume_Matcher.git
 
 ### 🔹Fake Review Detector
 🛠 Tech : FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis <br>
@@ -37,6 +37,6 @@
 🛠 Tech : FastAPI • Streamlit • SQLite • REST API • Role-based Login  <br>
 📌 Description : Role-based event management platform with separate student and admin portals, built using FastAPI and deployed backend services.<br>
 🎥 Demos [Watch Resume Matcher Demo] :https:https://drive.google.com/file/d/126_l6Mjo3360bM1to6d1rI4OlKm1gsrM/view?usp=sharing <br>
-🔗 Code: https://github.com/mahajpr/College_Event_Register_System.git
+🔗 Code: https://github.com/mahajpr/Smart_Event_Management_System_with_AI_Assistant.git
 
 
